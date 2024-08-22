@@ -2,6 +2,7 @@
 import time
 import functions
 
+print("Hello World")
 now = time.strftime("%b %d, %Y %H:%M:%S")
 print("It is", now)
 while True:
